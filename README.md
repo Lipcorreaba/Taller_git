@@ -3,4 +3,4 @@
 
 este es el taller de github para tpi
 
-![Imagen prueba](/rod.jpg)
+![Imagen prueba](/rod.JPG)
